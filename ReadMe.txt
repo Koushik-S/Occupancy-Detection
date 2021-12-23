@@ -43,4 +43,6 @@ The directory structure of the shared folder:
 
 The link for the shared folder: https://drive.google.com/folderview?id=1sCcWYK7uCtmr17r2Vimjxq58b2-AnoFe
 
+NOTE:
 
+We developed a database backend server to display the occupancy of a given space, The code for the server and database will be added soon
